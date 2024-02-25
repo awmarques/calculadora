@@ -1,8 +1,8 @@
 # Calculadora
 Calculadora para treinar habilidades em JS CSS HTML
 
-:rocket: Descrição
-Calculado similar a calculadora do windows. Projeto teste para exercitar habilidades em CSS JS e HTML.
+:rocket:
+Calculadora similar a calculadora do windows. Projeto teste para exercitar habilidades em CSS JS e HTML.
 
 
 ---
